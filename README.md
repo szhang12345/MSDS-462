@@ -11,3 +11,4 @@ A review of specialized deep learning methods for vision, including convolutiona
 ● Apply Computer Vision models to edge-based Machine Learning hardware. These will include Intel Movidius.
 ● Apply Computer Vision models to edge-based Machine Learning hardware that work with Managed ML Systems. These will use AWS DeepLense and AWS Sagemaker.
 ● Use Cloud-Native Computer Vision APIs.
+
